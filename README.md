@@ -24,7 +24,7 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 ## 📅 Progress In HackerRank
 
 | Date | Challenge | Subdomains | Level | Link |
-| ---- | --------- | ---------- | ----- | ---- |
+| 2026-01-06 | Revising the Select Query I | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) |
 
 ---
 

@@ -3,6 +3,7 @@
 🔗 Link: <Challenge URL>
 🏷️ Level: <Difficulty Level>
 📅 Date: <YYYY-MM-DD>
+🏆 Score: <Number of Score>
 
 📝 Instruction:
 <Write or paste the problem description here.>
