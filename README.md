@@ -17,7 +17,7 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 ## 📅 Progress In Codewars
 
 | Date | Challenge | Level | Link |
-| ---- | --------- | ----- | ---- |
+| 2026-01-06 | Even or Odd | 8 kyu | [View Kata](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/sql) |
 
 ---
 
