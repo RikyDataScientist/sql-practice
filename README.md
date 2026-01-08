@@ -29,6 +29,8 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 | 2026-01-06 | Revising the Select Query I | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) |
 | 2026-01-07 | Select All | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/select-all-sql/problem) |
 | 2026-01-07 | Select By ID | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/select-by-id/problem) |
+| 2026-01-08 | Japanese Cities' Attributes | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) |
+| 2026-01-08 | Japanese Cities' Names | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/japanese-cities-name/problem) |
 
 ---
 
