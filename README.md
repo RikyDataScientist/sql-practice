@@ -32,6 +32,9 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 | 2026-01-08 | Japanese Cities' Attributes | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) |
 | 2026-01-08 | Japanese Cities' Names | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/japanese-cities-name/problem) |
 | 2026-01-08 | Revising the Select Query II | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) |
+| 2026-01-09 | Weather Observation Station 1 | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) |
+| 2026-01-09 | Weather Observation Station 3 | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) |
+| 2026-01-09 | Weather Observation Station 4 | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) |
 
 ---
 
