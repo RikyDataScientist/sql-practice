@@ -39,6 +39,10 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 | 2026-01-10 | Weather Observation Station 6 | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) |
 | 2026-01-10 | Weather Observation Station 7 | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) |
 | 2026-01-10 | Weather Observation Station 8 | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) |
+| 2026-01-11 | Weather Observation Station 9 | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) |
+| 2026-01-11 | Weather Observation Station 10 | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) |
+| 2026-01-11 | Weather Observation Station 11 | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) |
+| 2026-01-11 | Weather Observation Station 12 | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) |
 
 ---
 
