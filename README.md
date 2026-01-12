@@ -43,6 +43,9 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 | 2026-01-11 | Weather Observation Station 10 | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) |
 | 2026-01-11 | Weather Observation Station 11 | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) |
 | 2026-01-11 | Weather Observation Station 12 | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) |
+| 2026-01-12 | Higher Than 75 Marks | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/more-than-75-marks/problem) |
+| 2026-01-12 | Employee Names | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/name-of-employees/problem) |
+| 2026-01-12 | Employee Salaries | Basic | Easy | [View Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem) |
 
 ---
 
