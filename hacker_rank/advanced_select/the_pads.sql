@@ -3,7 +3,7 @@
 🔗 Link: https://www.hackerrank.com/challenges/the-pads/problem
 🏷️ Level: Medium
 📅 Date: 2026-01-13
-🏆 Score: 20
+🏆 Score: 30
 
 📝 Instruction:
 Generate the following two result sets:
