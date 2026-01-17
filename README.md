@@ -21,6 +21,7 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 | 2026-01-06 | Even or Odd                                     | 8 kyu | [View Kata](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/sql) |
 | 2026-01-15 | Convert boolean values to strings 'Yes' or 'No' | 8 kyu | [View Kata](https://www.codewars.com/kata/53369039d7ab3ac506000467/sql) |
 | 2026-01-16 | Reversed Strings                                | 8 kyu | [View Kata](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/sql) |
+| 2026-01-17 | Remove First and Last Character                 | 8 kyu | [View Kata](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/sql) |
 
 ---
 
