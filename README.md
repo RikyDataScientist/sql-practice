@@ -23,6 +23,7 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 | 2026-01-16 | Reversed Strings                                | 8 kyu | [View Kata](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/sql) |
 | 2026-01-17 | Remove First and Last Character                 | 8 kyu | [View Kata](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/sql) |
 | 2026-01-18 | String repeat                                   | 8 kyu | [View Kata](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)     |
+| 2026-01-19 | Grasshopper - Summation                         | 8 kyu | [View Kata](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/sql) |
 
 ---
 
