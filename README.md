@@ -27,6 +27,7 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 | 2026-01-20 | Remove String Spaces                            | 8 kyu | [View Kata](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/sql) |
 | 2026-01-21 | Keep Hydrated                                   | 8 kyu | [View Kata](https://www.codewars.com/kata/582cb0224e56e068d800003c/sql) |
 | 2026-01-22 | Century From Year                               | 8 kyu | [View Kata](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/sql) |
+| 2026-01-23 | Opposites Attract                               | 8 kyu | [View Kata](https://www.codewars.com/kata/555086d53eac039a2a000083/sql) |
 
 ---
 
