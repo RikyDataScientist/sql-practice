@@ -31,6 +31,7 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 | 2026-01-27 | Returning Strings                               | 8 kyu | [View Kata](https://www.codewars.com/kata/55a70521798b14d4750000a4/sql) |
 | 2026-01-28 | Vowel Count                                     | 7 kyu | [View Kata](https://www.codewars.com/kata/54ff3102c1bad923760001f3/sql) |
 | 2026-01-30 | Complementary DNA                               | 7 kyu | [View Kata](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/sql) |
+| 2026-01-31 | Beginner Series #1 School Paperwork             | 8 kyu | [View Kata](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/sql) |
 
 ---
 
