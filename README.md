@@ -34,6 +34,7 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 | 2026-01-31 | Beginner Series #1 School Paperwork             | 8 kyu | [View Kata](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/sql) |
 | 2026-02-02 | Sum of odd numbers                              | 7 kyu | [View Kata](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/sql) |
 | 2026-02-04 | Is n divisible by x and y?                      | 8 kyu | [View Kata](https://www.codewars.com/kata/5545f109004975ea66000086/sql) |
+| 2026-02-05 | Maximum Multiple                                | 7 kyu | [View Kata](https://www.codewars.com/kata/5aba780a6a176b029800041c/sql) |
 
 ---
 
