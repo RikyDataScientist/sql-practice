@@ -37,6 +37,7 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 | 2026-02-05 | Maximum Multiple                                | 7 kyu | [View Kata](https://www.codewars.com/kata/5aba780a6a176b029800041c/sql) |
 | 2026-02-07 | Leap Years                                      | 7 kyu | [View Kata](https://www.codewars.com/kata/526c7363236867513f0005ca/sql) |
 | 2026-02-11 | Beginner Series #2 Clock                        | 8 kyu | [View Kata](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/sql) |
+| 2026-02-14 | Simple multiplication                           | 8 kyu | [View Kata](https://www.codewars.com/kata/583710ccaa6717322c000105/sql) |
 
 ---
 
