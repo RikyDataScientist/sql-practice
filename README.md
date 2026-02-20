@@ -38,6 +38,7 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 | 2026-02-07 | Leap Years                                      | 7 kyu | [View Kata](https://www.codewars.com/kata/526c7363236867513f0005ca/sql) |
 | 2026-02-11 | Beginner Series #2 Clock                        | 8 kyu | [View Kata](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/sql) |
 | 2026-02-16 | Fake Binary                                     | 8 kyu | [View Kata](https://www.codewars.com/kata/57eae65a4321032ce000002d/sql) |
+| 2026-02-20 | Disemvowel Trolls                               | 7 kyu | [View Kata](https://www.codewars.com/kata/52fba66badcd10859f00097e/sql) |
 
 ---
 
