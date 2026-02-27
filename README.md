@@ -40,6 +40,7 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 | 2026-02-16 | Fake Binary                                     | 8 kyu | [View Kata](https://www.codewars.com/kata/57eae65a4321032ce000002d/sql) |
 | 2026-02-20 | Disemvowel Trolls                               | 7 kyu | [View Kata](https://www.codewars.com/kata/52fba66badcd10859f00097e/sql) |
 | 2026-02-24 | Sum of angles                                   | 7 kyu | [View Kata](https://www.codewars.com/kata/5a03b3f6a1c9040084001765/sql) |
+| 2026-02-28 | Best-Selling Books                              | 7 kyu | [View Kata](https://www.codewars.com/kata/591127cbe8b9fb05bd00004b/sql) |
 
 ---
 
