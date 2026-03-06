@@ -43,6 +43,7 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 | 2026-02-28 | Best-Selling Books                              | 7 kyu | [View Kata](https://www.codewars.com/kata/591127cbe8b9fb05bd00004b/sql) |
 | 2026-03-02 | Sum of Cubes                                    | 7 kyu | [View Kata](https://www.codewars.com/kata/59a8570b570190d313000037/sql) |
 | 2026-03-04 | Count by X                                      | 8 kyu | [View Kata](https://www.codewars.com/kata/5513795bd3fafb56c200049e/sql) |
+| 2026-03-06 | Remove exclamation marks                        | 8 kyu | [View Kata](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/sql) |
 
 ---
 
