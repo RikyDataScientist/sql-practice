@@ -73,6 +73,7 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 | 2026-01-12 | Employee Salaries              | Basic      | Easy   | [View Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem)            |
 | 2026-01-13 | Type of Triangle               | Basic      | Easy   | [View Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)          |
 | 2026-01-13 | The PADS                       | Basic      | Medium | [View Problem](https://www.hackerrank.com/challenges/the-pads/problem)                       |
+| 2026-03-07 | Occupations                    | Basic      | Medium | [View Problem](https://www.hackerrank.com/challenges/occupations/problem)                    |
 
 ---
 
