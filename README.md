@@ -44,6 +44,7 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 | 2026-03-02 | Sum of Cubes                                    | 7 kyu | [View Kata](https://www.codewars.com/kata/59a8570b570190d313000037/sql) |
 | 2026-03-04 | Count by X                                      | 8 kyu | [View Kata](https://www.codewars.com/kata/5513795bd3fafb56c200049e/sql) |
 | 2026-03-06 | Remove exclamation marks                        | 8 kyu | [View Kata](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/sql) |
+| 2026-03-09 | Alphabetical Addition                           | 7 kyu | [View Kata](https://www.codewars.com/kata/5d50e3914861a500121e1958/sql) |
 
 ---
 
