@@ -47,6 +47,7 @@ The goal is to build a strong foundation in **SQL and MySQL**, focusing on **DDL
 | 2026-03-09 | Alphabetical Addition                           | 7 kyu | [View Kata](https://www.codewars.com/kata/5d50e3914861a500121e1958/sql) |
 | 2026-03-12 | Triangular Treasure                             | 7 kyu | [View Kata](https://www.codewars.com/kata/525e5a1cb735154b320002c8/sql) |
 | 2026-03-14 | Simple Fun #74: Growing Plant                   | 7 kyu | [View Kata](https://www.codewars.com/kata/58941fec8afa3618c9000184/sql) |
+| 2026-03-16 | Quarter of the year                             | 8 kyu | [View Kata](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/sql) |
 
 ---
 
